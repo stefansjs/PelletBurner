@@ -1,0 +1,3 @@
+[submodule "geenboy-extruder-models"]
+	path = geenboy-extruder-models
+	url = git@github.com:stefansjs/geenboy-extruder-models.git
